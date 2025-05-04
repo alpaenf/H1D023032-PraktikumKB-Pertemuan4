@@ -16,10 +16,10 @@ Halo! Ini adalah project sederhana sistem pakar yang saya buat untuk membantu me
 ## 📂 Struktur Folder
 
 sistem-pakar-aktivitas/
-├── gui.py # Tampilan utama dengan Tkinter
-├── engine.py # Menghubungkan Python dengan Prolog
-├── preferensi_mapping.py # Kumpulan pertanyaan dan kodenya
-└── basis_pengetahuan.pl # Logika sistem pakar (aturan + fakta Prolog)
+├── gui.py                 # Tampilan utama dengan Tkinter
+├── engine.py              # Menghubungkan Python dengan Prolog
+├── preferensi_mapping.py  # Kumpulan pertanyaan dan kodenya
+└── basis_pengetahuan.pl   # Logika sistem pakar (aturan + fakta Prolog)
 
 ---
 
